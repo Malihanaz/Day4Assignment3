@@ -1,0 +1,14 @@
+C:\simplilearn\Day4\ConsoleAppDay4Assignment3\ConsoleAppDay4Assignment3\bin\Debug\net6.0\ConsoleAppDay4Assignment3.exe
+C:\simplilearn\Day4\ConsoleAppDay4Assignment3\ConsoleAppDay4Assignment3\bin\Debug\net6.0\ConsoleAppDay4Assignment3.deps.json
+C:\simplilearn\Day4\ConsoleAppDay4Assignment3\ConsoleAppDay4Assignment3\bin\Debug\net6.0\ConsoleAppDay4Assignment3.runtimeconfig.json
+C:\simplilearn\Day4\ConsoleAppDay4Assignment3\ConsoleAppDay4Assignment3\bin\Debug\net6.0\ConsoleAppDay4Assignment3.dll
+C:\simplilearn\Day4\ConsoleAppDay4Assignment3\ConsoleAppDay4Assignment3\bin\Debug\net6.0\ConsoleAppDay4Assignment3.pdb
+C:\simplilearn\Day4\ConsoleAppDay4Assignment3\ConsoleAppDay4Assignment3\obj\Debug\net6.0\ConsoleAppDay4Assignment3.GeneratedMSBuildEditorConfig.editorconfig
+C:\simplilearn\Day4\ConsoleAppDay4Assignment3\ConsoleAppDay4Assignment3\obj\Debug\net6.0\ConsoleAppDay4Assignment3.AssemblyInfoInputs.cache
+C:\simplilearn\Day4\ConsoleAppDay4Assignment3\ConsoleAppDay4Assignment3\obj\Debug\net6.0\ConsoleAppDay4Assignment3.AssemblyInfo.cs
+C:\simplilearn\Day4\ConsoleAppDay4Assignment3\ConsoleAppDay4Assignment3\obj\Debug\net6.0\ConsoleAppDay4Assignment3.csproj.CoreCompileInputs.cache
+C:\simplilearn\Day4\ConsoleAppDay4Assignment3\ConsoleAppDay4Assignment3\obj\Debug\net6.0\ConsoleAppDay4Assignment3.dll
+C:\simplilearn\Day4\ConsoleAppDay4Assignment3\ConsoleAppDay4Assignment3\obj\Debug\net6.0\refint\ConsoleAppDay4Assignment3.dll
+C:\simplilearn\Day4\ConsoleAppDay4Assignment3\ConsoleAppDay4Assignment3\obj\Debug\net6.0\ConsoleAppDay4Assignment3.pdb
+C:\simplilearn\Day4\ConsoleAppDay4Assignment3\ConsoleAppDay4Assignment3\obj\Debug\net6.0\ConsoleAppDay4Assignment3.genruntimeconfig.cache
+C:\simplilearn\Day4\ConsoleAppDay4Assignment3\ConsoleAppDay4Assignment3\obj\Debug\net6.0\ref\ConsoleAppDay4Assignment3.dll
